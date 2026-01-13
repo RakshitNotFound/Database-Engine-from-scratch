@@ -1,0 +1,12 @@
+{
+	"name": "John Doe",
+	"age": 23,
+	"contact": "9876543210",
+	"company": "Tech Solutions",
+	"address": {
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"country": "India",
+		"pincode": 560001
+	}
+}

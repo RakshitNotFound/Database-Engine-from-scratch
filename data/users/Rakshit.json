@@ -1,0 +1,12 @@
+{
+	"name": "Rakshit",
+	"age": 28,
+	"contact": "9543211",
+	"company": "Cloud Systems",
+	"address": {
+		"city": "Mumbai",
+		"state": "Maharashtra",
+		"country": "India",
+		"pincode": 400001
+	}
+}

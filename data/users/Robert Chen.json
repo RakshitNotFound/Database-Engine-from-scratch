@@ -1,0 +1,12 @@
+{
+	"name": "Robert Chen",
+	"age": 35,
+	"contact": "9876543212",
+	"company": "Data Corp",
+	"address": {
+		"city": "Pune",
+		"state": "Maharashtra",
+		"country": "India",
+		"pincode": 411001
+	}
+}
