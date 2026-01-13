@@ -8,7 +8,7 @@ import (
 	"sync"
 )
 
-// --- DATABASE ENGINE LOGIC ---
+// --- DATABASE ENGINE
 
 type Driver struct {
 	mutex   sync.Mutex
@@ -169,3 +169,4 @@ func main() {
 		fmt.Printf("- Name: %s, Company: %s\n", u.Name, u.Company)
 	}
 }
+
